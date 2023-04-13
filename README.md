@@ -32,7 +32,7 @@ Testdata maintained under the project directory resourse/Data folder, that conta
 ![image](https://user-images.githubusercontent.com/88130729/231574601-8d7af3aa-6c7d-4054-9928-824b1fae6aca.png)
 
 ## pom.xml
-he POM contains information about the project and various configuration detail used by Maven to build the project.
+The POM contains information about the project and various configuration detail used by Maven to build the project.
 
 ## Folder Structure 
 ### TestBase 
